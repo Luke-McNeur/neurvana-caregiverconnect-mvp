@@ -1,9 +1,3 @@
-# GitHub Repository Description (350 characters max)
-
-**AI-powered caregiver onboarding automation for home care agencies. Reduces 90-day turnover by 25% through intelligent communication sequences and document management. Built with n8n, Google ecosystem, and Twilio. 48-hour deployable MVP with proven ROI.**
-
-*Character count: 286*
-
 ## Key Features
 
 - **Smart Intake Processing**: Google Forms with conditional logic and automated document organization
