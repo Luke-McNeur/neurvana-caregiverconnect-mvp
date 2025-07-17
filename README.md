@@ -1,3 +1,37 @@
+## Caregiver Connect Onboarding Tool MVP
+
+**AI-powered caregiver onboarding automation for home care agencies. Reduces 90-day turnover by 25% through intelligent communication sequences and document management. Built with n8n, Google ecosystem, and Twilio. 48-hour deployable MVP with proven ROI.**
+
+## Build Progress
+
+### ✅ Completed Components
+- [x] Google Form: `CaregiverConnect_Intake_v1`
+- [x] Form Response Sheet: `CaregiverConnect_Database_v1` 
+- [x] Admin Dashboard: `CaregiverConnect_AdminDashboard_v1`
+- [x] Google Drive folder structure
+- [x] File upload organization: `06_CaregiverConnect_FileUploads_v1`
+
+### 🚧 In Progress
+- [ ] n8n Main Workflow: `CaregiverConnect_MainFlow_v1`
+- [ ] n8n Document Processing
+- [ ] n8n Communication Sequence
+
+### 📋 Next Steps
+- [ ] Twilio SMS integration
+- [ ] Gmail welcome templates
+- [ ] Demo data population
+- [ ] End-to-end testing
+
+## Current Architecture
+
+**Data Flow:**
+1. Google Form → Form Response Sheet
+2. n8n Trigger → Process new submissions
+3. Create organized Drive folders
+4. Move files from uploads to caregiver folders
+5. Update Admin Dashboard with tracking data
+6. Send welcome communications
+
 ## Key Features
 
 - **Smart Intake Processing**: Google Forms with conditional logic and automated document organization
