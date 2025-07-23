@@ -27,6 +27,8 @@
 4. Move files from uploads to caregiver folders
 5. Update Admin Dashboard with tracking data
 6. Send welcome communications
+   
+![Workflow Diagram](img/workflow.png)
 
 ## Key Features
 
