@@ -55,13 +55,6 @@ Independent home care agencies (10-100 caregivers) struggling with:
 - Document organization chaos
 - Poor new hire communication
 
-## Business Impact
-
-**Proven Results:**
-- 25% improvement in 90-day retention rates
-- 8-12 hours weekly admin time savings
-- $3,000-6,000 monthly cost reduction per agency
-- 2,326% ROI within first year
 
 ## Repository Structure
 
